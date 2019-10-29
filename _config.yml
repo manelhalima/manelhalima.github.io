@@ -111,7 +111,7 @@ author:
   avatar           : "/images/manel_photo_linkedin.jpg"
   bio              : "Data science portfolio"
   location         : "Lille, France"
-  linkedin         : "https://www.linkedin.com/in/manel-halima/"
+  linkedin         : "manel-halima/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
